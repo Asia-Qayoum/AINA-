@@ -2,7 +2,9 @@ streamlit
 sentence-transformers
 scikit-learn
 matplotlib
-seaborn
+plotly
 pandas
 numpy
 google-genai
+torchvision
+torch
